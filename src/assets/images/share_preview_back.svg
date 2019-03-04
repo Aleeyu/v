@@ -1,0 +1,45 @@
+<svg width="460" height="220" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient y2="0.457031" x2="0.492188" y1="0.132813" x1="0.148438" id="svg_34">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#00d2ff"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#2d8cf0"/>
+  </linearGradient>
+ </defs>
+ <g stroke="null">
+  <title>background</title>
+  <rect stroke="null" fill="url(#svg_34)" id="canvas_background" height="222" width="462" y="-1" x="-1"/>
+  <g stroke="null" display="none" id="canvasGrid">
+   <rect stroke="null" fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_1"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title>Layer 1</title>
+  <rect stroke="#000" transform="rotate(51 110.99999999999999,53.49999999999999) " id="svg_2" height="60" width="59" y="23.5" x="81.5" stroke-width="0" fill="#fff"/>
+  <rect stroke="#000" transform="rotate(48 176.99999999999997,55.49999999999999) " id="svg_3" height="60" width="59" y="25.5" x="147.5" stroke-width="0" fill="#fff"/>
+  <rect stroke="#000" transform="rotate(36 233.99999999999997,54.49999999999999) " id="svg_4" height="60" width="59" y="24.5" x="204.5" stroke-width="0" fill="#fff"/>
+  <rect stroke="#000" transform="rotate(29 341.3535461425782,51.14644622802739) " id="svg_5" height="60" width="58" y="21.146444" x="312.353555" stroke-width="0" fill="#fff"/>
+  <rect stroke="#000" transform="rotate(36 284,53.500000000000036) " id="svg_6" height="60" width="59" y="23.5" x="254.5" stroke-width="0" fill="#fff"/>
+  <text stroke="null" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="30" id="svg_8" y="61.5" x="94.5" stroke-width="0" fill="#00aeff">你</text>
+  <text stroke="null" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="30" id="svg_9" y="65.5" x="163.5" stroke-width="0" fill="#00aeff">的</text>
+  <text stroke="null" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="30" id="svg_10" y="64.5" x="218.5" stroke-width="0" fill="#00aeff">分</text>
+  <text stroke="null" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="30" id="svg_11" y="62.5" x="272.5" stroke-width="0" fill="#00aeff">享</text>
+  <text stroke="null" xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="35" id="svg_12" y="66" x="332" stroke-width="0" fill="#00aeff">！</text>
+  <ellipse stroke="null" ry="6" rx="6" id="svg_17" cy="101" cx="106.5" stroke-width="0" fill="#ffffff"/>
+  <ellipse stroke="null" ry="6" rx="6" id="svg_18" cy="105" cx="175.5" stroke-width="0" fill="#ffffff"/>
+  <ellipse stroke="null" ry="6" rx="6" id="svg_19" cy="102" cx="239.5" stroke-width="0" fill="#ffffff"/>
+  <ellipse stroke="null" ry="6" rx="6" id="svg_20" cy="101" cx="291" stroke-width="0" fill="#ffffff"/>
+  <ellipse stroke="null" ry="6" rx="6" id="svg_21" cy="95.5" cx="353.5" stroke-width="0" fill="#ffffff"/>
+  <ellipse stroke="#ffffff" ry="18.500001" rx="1.5" id="svg_29" cy="126" cx="106" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <ellipse stroke="#ffffff" ry="18.500001" rx="1.5" id="svg_30" cy="129" cx="175" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <ellipse stroke="#ffffff" ry="18.500001" rx="1.5" id="svg_31" cy="127" cx="239" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <ellipse stroke="#ffffff" ry="18.500001" rx="1.5" id="svg_32" cy="124" cx="291" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <ellipse stroke="#ffffff" ry="18.500001" rx="1.5" id="svg_33" cy="120" cx="354" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <path stroke="null" id="svg_35" d="m438.46441,56.92978l-12.60762,0l-3.89181,-14.50619l-0.54646,2.02723l-3.34994,12.48174l-12.60417,-0.00278l10.19676,8.97372l-3.8987,14.51592l10.19907,-8.97373l10.20135,8.9779l-3.89984,-14.52009l10.20136,-8.97372zm-15.15165,12.26622l-1.34893,-1.18602l-1.34893,1.18741l-4.47959,3.94043l1.71055,-6.37365l0.51662,-1.92155l-1.35123,-1.18881l-4.4773,-3.94043l7.20386,0l0.51661,-1.92016l1.70941,-6.37365l1.70941,6.36948l0.51547,1.92016l8.21075,-1l-5.48419,4.94321l-1.35238,1.18742l0.51547,1.92433l1.714,6.37365l-4.4796,-3.94182z" stroke-width="0" fill="#ffffff"/>
+  <path stroke="null" id="svg_36" d="m329.628,113.43954l-10.31532,0l-3.18421,-9.54354l-0.44711,1.3337l-2.74085,8.21167l-10.31251,-0.00183l8.34281,5.90377l-3.18985,9.54995l8.34469,-5.90377l8.34657,5.90651l-3.19079,-9.55269l8.34657,-5.90377zm-12.3968,8.06989l-1.10367,-0.78028l-1.10367,0.78119l-3.66512,2.59239l1.39954,-4.19319l0.42269,-1.26418l-1.10555,-0.78211l-3.66325,-2.59239l5.89407,0l0.42268,-1.26326l1.39861,-4.1932l1.39861,4.19045l0.42174,1.26327l5.8997,0l-3.66888,2.59422l-1.10649,0.78119l0.42175,1.26601l1.40236,4.19319l-3.66512,-2.5933z" stroke-width="0" fill="#ffffff"/>
+  <path stroke="null" id="svg_37" d="m33.628,39.53083l-6.11278,0l-1.88694,-7.63483l-0.26495,1.06696l-1.62421,6.56934l-6.11112,-0.00147l4.94389,4.72302l-1.89028,7.63995l4.945,-4.72301l4.94611,4.72521l-1.89083,-7.64215l4.94611,-4.72302zm-7.34625,6.45591l-0.65403,-0.62422l-0.65402,0.62495l-2.17193,2.07391l0.82936,-3.35455l0.25048,-1.01134l-0.65514,-0.62569l-2.17081,-2.07391l3.49278,0l0.25048,-1.01061l0.8288,-3.35456l0.82881,3.35236l0.24992,1.01061l3.49612,0l-2.17415,2.07538l-0.6557,0.62495l0.24992,1.01281l0.83104,3.35455l-2.17193,-2.07464z" stroke-width="0" fill="#ffffff"/>
+  <path stroke="null" id="svg_38" d="m202.628,4.76735l-6.49483,0l-2.00487,-6.87135l-0.28151,0.96026l-1.72573,5.91241l-6.49306,-0.00132l5.25288,4.25071l-2.00842,6.87597l5.25406,-4.25072l5.25525,4.25269l-2.00901,-6.87794l5.25525,-4.25071l-0.00001,0zm-7.80539,5.81032l-0.6949,-0.5618l-0.69491,0.56246l-2.30767,1.86652l0.8812,-3.0191l0.26613,-0.91021l-0.69608,-0.56312l-2.30649,-1.86652l3.71108,0l0.26613,-0.90955l0.88061,-3.0191l0.8806,3.01713l0.26554,0.90955l3.71463,0l-2.31003,1.86783l-0.69668,0.56246l0.26554,0.91153l0.88297,3.0191l-2.30767,-1.86718z" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <path stroke="null" id="svg_39" d="m188.62872,161.40937l-6.79937,3.30611l2.59913,-5.34797l-6.79784,-3.30611l8.40277,0.00103l2.2333,-4.59854l0.3643,-0.74687l2.59454,5.34438l8.40507,0l-6.8009,3.30611l2.5999,5.34951l-6.8009,-3.30765l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+  <path stroke="null" id="svg_40" d="m3.43251,139.0654l-11.12624,7.79297l4.25312,-12.60593l-11.12374,-7.79297l13.75,0.00241l3.65448,-10.8394l0.59614,-1.76048l4.24561,12.59747l13.75376,0l-11.12875,7.79298l4.25437,12.60955l-11.12875,-7.7966l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+ </g>
+</svg>

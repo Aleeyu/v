@@ -1,0 +1,38 @@
+.main-head,
+.sub-head,
+.small-head {
+    font-weight: bold;
+    color: #464c5b;
+}
+
+.main-head {
+    font-size: 16px;
+}
+
+.sub-head {
+    font-size: 14px;
+}
+
+.small-head {
+    font-size: 12px;
+}
+
+.text {
+    color: #657180;
+    font-size: 12px;
+}
+
+.help {
+    color: #9ea7b4;
+    font-size: 12px;
+}
+
+.disabled {
+    color: #c3cbd6;
+    font-size: 12px;
+}
+
+.link {
+    color: #3399ff;
+    font-size: 12px;
+}

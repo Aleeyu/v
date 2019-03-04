@@ -1,0 +1,16 @@
+body {
+  padding: 0 !important;
+}
+
+.main .title {
+  display: none !important;
+}
+
+.main .info {
+  display: none !important;
+}
+
+.impowerBox img.qrcode {
+  margin: 0 !important;
+  border: none !important;
+}

@@ -1,0 +1,72 @@
+
+@font-face {font-family: "extendIconFont";
+  src: url('iconfont.eot?t=1503631565727'); /* IE9*/
+  src: url('iconfont.eot?t=1503631565727#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1503631565727') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1503631565727') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1503631565727#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.ivu-icon-quote:before { font-family:"extendIconFont" !important; content: "\e60e"; }
+
+.ivu-icon-paste:before { font-family:"extendIconFont" !important; content: "\e819"; }
+
+.ivu-icon-subscript:before { font-family:"extendIconFont" !important; content: "\e64f"; }
+
+.ivu-icon-indent:before { font-family:"extendIconFont" !important; content: "\e693"; }
+
+.ivu-icon-dedent:before { font-family:"extendIconFont" !important; content: "\e694"; }
+
+.ivu-icon-wechat:before { font-family:"extendIconFont" !important; content: "\e616"; }
+
+.ivu-icon-link:before { font-family:"extendIconFont" !important; content: "\e66d"; }
+
+.ivu-icon-undo:before { font-family:"extendIconFont" !important; content: "\e69b"; }
+
+.ivu-icon-spellcheck:before { font-family:"extendIconFont" !important; content: "\e66e"; }
+
+.ivu-icon-qq:before { font-family:"extendIconFont" !important; content: "\e600"; }
+
+.ivu-icon-unlink:before { font-family:"extendIconFont" !important; content: "\e630"; }
+
+.ivu-icon-pdf:before { font-family:"extendIconFont" !important; content: "\e608"; }
+
+.ivu-icon-align-right:before { font-family:"extendIconFont" !important; content: "\e7dd"; }
+
+.ivu-icon-align-justify:before { font-family:"extendIconFont" !important; content: "\e7db"; }
+
+.ivu-icon-align-center:before { font-family:"extendIconFont" !important; content: "\e7d9"; }
+
+.ivu-icon-align-left:before { font-family:"extendIconFont" !important; content: "\e7dc"; }
+
+.ivu-icon-font-back:before { font-family:"extendIconFont" !important; content: "\e677"; }
+
+.ivu-icon-doc:before { font-family:"extendIconFont" !important; content: "\e63c"; }
+
+.ivu-icon-font:before { font-family:"extendIconFont" !important; content: "\e684"; }
+
+.ivu-icon-superscript:before { font-family:"extendIconFont" !important; content: "\e72f"; }
+
+.ivu-icon-redo:before { font-family:"extendIconFont" !important; content: "\e607"; }
+
+.ivu-icon-ppt:before { font-family:"extendIconFont" !important; content: "\e62c"; }
+
+.ivu-icon-italic:before { font-family:"extendIconFont" !important; content: "\e79e"; }
+
+.ivu-icon-text:before { font-family:"extendIconFont" !important; content: "\e659"; }
+
+.ivu-icon-weibo:before { font-family:"extendIconFont" !important; content: "\e64a"; }
+
+.ivu-icon-bold:before { font-family:"extendIconFont" !important; content: "\e7ce"; }
+
+.ivu-icon-strikethrough:before { font-family:"extendIconFont" !important; content: "\e8be"; }
+
+.ivu-icon-erase:before { font-family:"extendIconFont" !important; content: "\e7cc"; }
+
+.ivu-icon-xls:before { font-family:"extendIconFont" !important; content: "\e631"; }
+
+.ivu-icon-underline:before { font-family:"extendIconFont" !important; content: "\e955"; }
+
+.ivu-icon-ol:before { font-family:"extendIconFont" !important; content: "\e76d"; }
+
+.ivu-icon-ul:before { font-family:"extendIconFont" !important; content: "\e790"; }
