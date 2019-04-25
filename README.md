@@ -1,6 +1,6 @@
 # app
 
-> front end of 万码易联
+> front end o
 
 ## Build Setup
 
